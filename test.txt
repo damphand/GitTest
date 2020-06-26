@@ -8,6 +8,7 @@ Chnaged to fix bug 2
 trying my first push to remote repository
 
 team mate fixed bug 5
+team mate fixed bug 6
 
 team mate fixed bug 7
 
